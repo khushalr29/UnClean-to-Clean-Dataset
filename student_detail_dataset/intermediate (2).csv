@@ -1,0 +1,137 @@
+﻿mergedata
+101        | John       | Smith     | 22  | M      | Data Science   | 2022-05-15      | $1200|nannan|nannan|nannan|nan
+102        | Emily      | Johnson   | 24  | F      | Machine Learnin| 2022-03-18      | $1400|nannan|nannan|nannan|nan
+103        | Michael    | Williams  | 21  | M      | Data Science   | 2022-06-25      | $900|nannan|nannan|nannan|nan
+104        | Sarah      | Brown     | 23  | F      | Data Science   | NA              | $1100|nannan|nannan|nannan|nan
+105        | David      | Davis     | 20  | M      | Web Developmen | 2021-09-10      | $950|nannan|nannan|nannan|nan
+106        | Jessica    | Miller    | 25  | F      | Machine Learnin| 2022-04-22      | $1300|nannan|nannan|nannan|nan
+107        | Brian      | Wilson    | 19  | M      | Data Science   | 2022-07-02      | $1000|nannan|nannan|nannan|nan
+108        | Amanda     | Taylor    | 22  | F      | Machine Learnin| 2022-08-15      | $1200|nannan|nannan|nannan|nan
+109        | William    | Anderson  | 24  | M      | Data Science   | 2022-01-10      | $950|nannan|nannan|nannan|nan
+110        | Olivia     | Martinez  | 26  | F      | Data Science   | 2023-02-28      | $1150|nannan|nannan|nannan|nan
+111     | Williams     | Smith     | 22  | M      | Data Science   | 2022-05-15      | $1200|nannan|nannan|nannan|nan
+112     | Emily      | Emodi   | 24  | F      | Machine Learning | 2022-03-18     | $1400|nannan|nannan|nannan|nan
+113      | Esther   | Adams  | 21  | M      | Data Science   | 2022-06-25      | $900|nannan|nannan|nannan|nan
+114       | Sarah      | Brown     | 23  | F      | Data Science   | NA              | $1100|nannan|nannan|nannan|nan
+115      | David      | Davis     | 20  | M      | Web Development | 2021-09-10    | $950|nannan|nannan|nannan|nan
+"Davis |Davis Brown|nanM 25|Data Analytics05-09-23| ?20,000.00 "
+"Anita|AnitaWest|nanF 24|405-01-20| ?30,000.00 "
+"Olawale Akintola|Olawale Akintolanan|nanM 20|Web Developmet05-08-21| ?30,000.00 "
+"Wike|WikeAkintola|nanM 25|nan06-05-22| ?36,000.00 "
+""
+"Ayodele|Ayodelenan|F18|Machine Learning08-09-23| ?37,440.00 "
+""
+""
+""
+101        | Ethan      | Miller     | 22  | M      | Data Science    | 2022-05-15      | $1200|101        | Ethan      | Miller     | 22  | M      | Data Science    | 2022-05-15      | $1200nan|nannan|nannan|nan
+102        | Olivia     | Johnson    | 24  | F      | Machine Learning| 2022-03-18      | $1400|102        | Olivia     | Johnson    | 24  | F      | Machine Learning| 2022-03-18      | $1400nan|nannan|nannan|nan
+103        | Noah       | Williams   | 21  | M      | Data Science    | 2022-06-25      | $900|103        | Noah       | Williams   | 21  | M      | Data Science    | 2022-06-25      | $900nan|nannan|nannan|nan
+104        | Emma       | Brown      | 23  | F      | Data Science    | NA              | $1100|104        | Emma       | Brown      | 23  | F      | Data Science    | NA              | $1100nan|nannan|nannan|nan
+105        | Liam       | Davis      | 20  | M      | Web Development | 2021-09-10      | $950|105        | Liam       | Davis      | 20  | M      | Web Development | 2021-09-10      | $950nan|nannan|nannan|nan
+106        | Ava        | Miller     | 25  | F      | Machine Learning| 2022-04-22      | $1300|106        | Ava        | Miller     | 25  | F      | Machine Learning| 2022-04-22      | $1300nan|nannan|nannan|nan
+107        | William    | Wilson     | 19  | M      | Data Science    | 2022-07-02      | $1000|107        | William    | Wilson     | 19  | M      | Data Science    | 2022-07-02      | $1000nan|nannan|nannan|nan
+108        | Sophia     | Taylor     | 22  | F      | Machine Learning| 2022-08-15      | $1200|108        | Sophia     | Taylor     | 22  | F      | Machine Learning| 2022-08-15      | $1200nan|nannan|nannan|nan
+109        | James      | Anderson   | 24  | M      | Data Science    | 2022-01-10      | $950|109        | James      | Anderson   | 24  | M      | Data Science    | 2022-01-10      | $950nan|nannan|nannan|nan
+110        | Isabella   | Martinez   | 26  | F      | Data Science    | 2023-02-28      | $1150|110        | Isabella   | Martinez   | 26  | F      | Data Science    | 2023-02-28      | $1150nan|nannan|nannan|nan
+500        | Jackson    | Murphy     | 21  | M      | Web Development | 2023-06-05      | $1050|500        | Jackson    | Murphy     | 21  | M      | Web Development | 2023-06-05      | $1050nan|nannan|nannan|nan
+"Joseph |Joseph Williams|22F 24|Machine Learning08-01-23|£20,000"
+"Kylian|KylianEden|78*M|Machine Learning08-01-24|£20,000"
+"Esther|EstherNaomi|21*F|Machine Learning08-01-22|£20,000"
+"Lay|LayMartin|22M|Web Developmet08-01-24|£20,000"
+Rock|RockShy|23M|Data Analytics02-05-99|nan
+144     | Ethe     | Miller      | 22  | M      | Data Science     | 2022-05-15      | $1200|144     | Ethe     | Miller      | 22  | M      | Data Science     | 2022-05-15      | $1200nan|nannan|nannan|nan
+145      | Olivian     | Johnson     | 24  | F      | Machine Learning | 2022-03-18      | $1400|145      | Olivian     | Johnson     | 24  | F      | Machine Learning | 2022-03-18      | $1400nan|nannan|nannan|nan
+146        | Noah       | Ray    | 21  | M      | Data Science     | 2022-06-25      | $900|146        | Noah       | Ray    | 21  | M      | Data Science     | 2022-06-25      | $900nan|nannan|nannan|nan
+147        | Emma       | Brown       | 23  | F      | Data Science     |          | $1100|147        | Emma       | Brown       | 23  | F      | Data Science     |          | $1100nan|nannan|nannan|nan
+148        | Liam       | Davis       | 20  | M      | Web Development  | 2021-09-10      | $950|148        | Liam       | Davis       | 20  | M      | Web Development  | 2021-09-10      | $950nan|nannan|nannan|nan
+149        | Ava        | Miller      | 25  | F      | Machine Learning | 2022-04-22      | $1300|149        | Ava        | Miller      | 25  | F      | Machine Learning | 2022-04-22      | $1300nan|nannan|nannan|nan
+155        | Benjamin   | Thompson    | 20  | M      | Web Development  | 2022-11-14      | $1050|155        | Benjamin   | Thompson    | 20  | M      | Web Development  | 2022-11-14      | $1050nan|nannan|nannan|nan
+156        | Mia        | Hernandez   | 23  | F      | Machine Learning | 2022-09-20      | $1350|156        | Mia        | Hernandez   | 23  | F      | Machine Learning | 2022-09-20      | $1350nan|nannan|nannan|nan
+157        | Alexander  | Davis       | 21  | M      | Data Science     | 2022-07-05      | $920|157        | Alexander  | Davis       | 21  | M      | Data Science     | 2022-07-05      | $920nan|nannan|nannan|nan
+114        | Harper     | Rodriguez   | 22  | F      | Data Science     |              | $1120|114        | Harper     | Rodriguez   | 22  | F      | Data Science     |              | $1120nan|nannan|nannan|nan
+115        | Daniel     | White       | 24  | M      | Web Development  | 2021-10-30      | $970|115        | Daniel     | White       | 24  | M      | Web Development  | 2021-10-30      | $970nan|nannan|nannan|nan
+159        | Emily      | Murphy      | 21  | F      | Machine Learning | 2023-08-02      | $1270|159        | Emily      | Murphy      | 21  | F      | Machine Learning | 2023-08-02      | $1270nan|nannan|nannan|nan
+101        | Ethan      | Miller      | 22  | M      | Data Science     | 2022-05-15      | $1200|101        | Ethan      | Miller      | 22  | M      | Data Science     | 2022-05-15      | $1200nan|nannan|nannan|nan
+102        | Olivia     | Rayay     | 24  | F      | Machine Learning | 2022-03-18      | $1400|102        | Olivia     | Rayay     | 24  | F      | Machine Learning | 2022-03-18      | $1400nan|nannan|nannan|nan
+103        | Noah       | Rock    | 21  | M      | Data Science     | 2022-06-25      | $900|103        | Noah       | Rock    | 21  | M      | Data Science     | 2022-06-25      | $900nan|nannan|nannan|nan
+104        | Emma       | Brown       | 23  | F      | Data Science     | NA              | $1100|104        | Emma       | Brown       | 23  | F      | Data Science     | NA              | $1100nan|nannan|nannan|nan
+105        | Liam       | Davis       | 20  | M      | Web Development  | 2021-09-10      | $950|105        | Liam       | Davis       | 20  | M      | Web Development  | 2021-09-10      | $950nan|nannan|nannan|nan
+106        | Ava        | Miller      | 25  | F      | Machine Learning | 2022-04-22      | $1300|106        | Ava        | Miller      | 25  | F      | Machine Learning | 2022-04-22      | $1300nan|nannan|nannan|nan
+107        | William    | Wilson      | 19  | M      | Data Science     | 2022-07-02      | $1000|107        | William    | Wilson      | 19  | M      | Data Science     | 2022-07-02      | $1000nan|nannan|nannan|nan
+108        | Sophia     | Taylor      | 22  | F      | Machine Learning | 2022-08-15      | $1200|108        | Sophia     | Taylor      | 22  | F      | Machine Learning | 2022-08-15      | $1200nan|nannan|nannan|nan
+109        | James      | Anderson    | 24  | M      | Data Science     | 2022-01-10      | $950|109        | James      | Anderson    | 24  | M      | Data Science     | 2022-01-10      | $950nan|nannan|nannan|nan
+110        | Isabella   | Martinez    | 26  | F      | Data Science     | 2023-02-28      | $1150|110        | Isabella   | Martinez    | 26  | F      | Data Science     | 2023-02-28      | $1150nan|nannan|nannan|nan
+111        | May   | Thompson    | 20  | M      | Web Development  | 2022-11-14      | $1050|111        | May   | Thompson    | 20  | M      | Web Development  | 2022-11-14      | $1050nan|nannan|nannan|nan
+112        | Mia        | Hernandez   | 23  | F      | Machine Learning | 2022-09-20      | $1350|112        | Mia        | Hernandez   | 23  | F      | Machine Learning | 2022-09-20      | $1350nan|nannan|nannan|nan
+113        | Alexander  | Davis       | 21  | M      | Data Science     | 2022-07-05      | $920|113        | Alexander  | Davis       | 21  | M      | Data Science     | 2022-07-05      | $920nan|nannan|nannan|nan
+114        | Harper     | Rodriguez   | 22  | F      | Data Science     | NA              | $1120|114        | Harper     | Rodriguez   | 22  | F      | Data Science     | NA              | $1120nan|nannan|nannan|nan
+500        | Emily      | Murphy      | 21  | F      | Machine Learning | 2023-08-02      | $1270|500        | Emily      | Murphy      | 21  | F      | Machine Learning | 2023-08-02      | $1270nan|nannan|nannan|nan
+      | Ben   | Thompson    | 20  | M      | Web Development  | 2022-11-14      | $1050|      | Ben   | Thompson    | 20  | M      | Web Development  | 2022-11-14      | $1050nan|nannan|nannan|nan
+    | Mia        | Hernandez   | 23  | F      | Machine Learning | 2022-09-20      | $1350|    | Mia        | Hernandez   | 23  | F      | Machine Learning | 2022-09-20      | $1350nan|nannan|nannan|nan
+    | Alexander  | Davis       | 21  | M      | Data Science     | 2022-07-05      | $920|    | Alexander  | Davis       | 21  | M      | Data Science     | 2022-07-05      | $920nan|nannan|nannan|nan
+Adeniran|AdeniranOmoshola|22F|Data Analysis01-Jul-21|50000
+"Iwueze |Iwueze Olaoluwa|23M|Data Analysis10-Jul-20| ? 55,000 "
+"Faramotu Ismail|Faramotu Ismailnan|23M|Data Analysis16-Jul-20| ? 60,500 "
+"Ifarele|IfareleAdeola|23M|Data Analysis30-Aug-22| ? 66,550 "
+"Folorunsho|FolorunshoDada|22M|Web Development01-Jul-22| ? 73,205 "
+"Ikechukwu|IkechukwuVictor|22M|Web Development01-Jul-24| ? 80,526 "
+"Ahmed|AhmedMohammed|23F|Web Development19-Jul-21| ? 88,578 "
+"Binta|BintaSanni|22F|Web Development01-Jul-21| ? 97,436 "
+"Chukwu|ChukwuIke|22M|Web Development01-Jul-22| ? 107,179 "
+"Ola Enioluwa|Ola Enioluwanan|22F|Machine Learning01-Jan-21| ? 117,897 "
+" Okafor | Okafor Chike|23M|Data Analysis11-Jul-20| ? 129,687 "
+"Chika Nwosu|Chika Nwosunan|23F|Data Analysis09-Aug-21| ? 142,656 "
+"Eze Chinedu|Eze Chinedunan|22M|Data Analysis01-Jul-23| ? 156,921 "
+"Adaobi Ekeinde|Adaobi Ekeindenan|23M|Data Analysis09-Jul-23| ? 172,614 "
+"Yusuf Ibrahim|Yusuf Ibrahimnan|22M|Cyber Security01-Aug-05| ? 189,875 "
+"Amaka Azikiwe|Amaka Azikiwenan|23M|Cyber Security28-Jul-23| ? 208,862 "
+"Onyeka Okonkwo|Onyeka Okonkwonan|23f|Cyber Security16-Jul-16| ? 229,749 "
+"Chioma Adebayo|Chioma Adebayonan|22f|Cyber Security01-Jul-22| ? 252,724 "
+"Ifeanyi Ekpo|Ifeanyi Ekponan|22f|Cyber Security01-Jul-22| ? 277,996 "
+"Ngozi Abubakar|Ngozi Abubakarnan|20f|Cyber Security01-Jul-24| ? 305,795 "
+"Abdul Nasiru|Abdul Nasirunan|21f|Cyber Security01-Jul-23| ? 336,375 "
+"Zainab Adeyemi|Zainab Adeyeminan|19f|Cyber Security01-Jul-22| ? 370,012 "
+"Obinna Onwuka|Obinna Onwukanan|25f|Data Analysis09-Jul-23| ? 407,014 "
+"Amina Osagie|Amina Osagienan|40M|Data Analysis01-Aug-05| ? 447,715 "
+"Chinonso Uche|Chinonso Uchenan|23M|Data Analysis28-Jul-23| ? 492,487 "
+"Femi Abdullahi|Femi Abdullahinan|22M|Data Analysis01-Jul-23| ? 541,735 "
+"Halima Bakare|Halima Bakarenan|23M|Data Analysis17-Jul-22| ? 595,909 "
+"Chibuzo Mohammed|Chibuzo Mohammednan|21M|Data Analysis01-Sep-20| ? 655,500 "
+"Oluchi Iwuoha|Oluchi Iwuohanan|22F|Machine Learning31-Jan-21| ? 721,050 "
+"Emeka Anikulapo|Emeka Anikulaponan|19M|Data Analysis19-Jul-24| ? 793,155 "
+"Hadiza Ogundipe|Hadiza Ogundipenan|18M|Data Analysis06-Aug-22| ? 872,470 "
+"Nneka Nwachukwu|Nneka Nwachukwunan|4M|Web Develpment01-Aug-23| ? 959,717 "
+"Adeola Okoro|Adeola Okoronan|nanM|Web Develpment12-Jul-23| ? 1,055,689 "
+"Idris Ibrahim|Idris Ibrahimnan|23M|Web Develpment31-Aug-24| ? 1,161,258 "
+"Chinyere Adeyemi|Chinyere Adeyeminan|23M|nan07-Oct-22| ? 1,277,383 "
+"Umar Abdullahi|Umar Abdullahinan|22M|Web Develpment01-Jul-24| ? 1,405,122 "
+"Nkem Adebayo|Nkem Adebayonan|20M|Web Develpment21-Jul-24| ? 1,545,634 "
+"Ayodele Osagie|Ayodele Osagienan|22F|Machine Learning30-Jan-21| ? 1,700,197 "
+"Chiwendu Ekpo|Chiwendu Ekponan|21M|Machine Learning30-Jan-20| ? 1,870,217 "
+"Fatima Azikiwe|Fatima Azikiwenan|22F|Data Analysis01-Jul-21| ? 2,057,239 "
+"Chukwudi Ekeinde|Chukwudi Ekeindenan|19M|Cyber Security28-Aug-22| ? 2,262,963 "
+"Kemi Uche|Kemi Uchenan|18M|Cyber Security06-Jul-22| ? 2,489,259 "
+"Jide Bakare|Jide Bakarenan|18M|Cyber Security02-Sep-23| ? 2,738,185 "
+"Adaobi Iwuoha|Adaobi Iwuohanan|19M|Cyber Security06-Aug-22| ? 3,012,003 "
+"Suleiman Mohammed|Suleiman Mohammednan|23M|Cyber Security25-Sep-20| ? 3,313,204 "
+"Ifeoluwa Anikulapo|Ifeoluwa Anikulaponan|23M|Cyber Security31-Aug-23| ? 3,644,524 "
+217       | Chukwudi   |     | 22  | M      | Data Science     | 2022-05-15      | $1200|Ogechi Ogundipenan|nannan|nannan|nan
+218      | Ngozi      | Eze         | 24  | F      | Machine Learning | 2022-03-18      | $1400|Abubakar Okonkwonan|nannan|nannan|nan
+219       | Ifeoluwa   | Adewale     | 21  | M      | Data Science     | 2022-06-25      | $900|nannan|nannan|nannan|nan
+220     | Ada        | Adeleke     | 23  | F      | Data Science     | NA              | $1100|nannan|nannan|nannan|nan
+221    | Kehinde    | Bakare      | 20  | M      | Web Development  | 2021-09-10      | $950|nannan|nannan|nannan|nan
+222        | Amara      | Okonkwo     | 25  | F      | Machine Learning | 2022-04-22      | $1300|nannan|nannan|nannan|nan
+223        | Uche       | Adebayo     | 19  | M      | Data Science     | 2022-07-02      | $1000|nannan|nannan|nannan|nan
+224      | Nneka      | Nwachukwu   | 22  | F      | Machine Learning | 2022-08-15      | $1200|nannan|nannan|nannan|nan
+225        | Emeka      | Okafor      | 24  | M      | Data Science     | 2022-01-10      | $950|nannan|nannan|nannan|nan
+226       | Chinyere   | Nwosu       | 26  | F      | Data Science     | 2023-02-28      | $1150|nannan|nannan|nannan|nan
+227      | Obinna     | Onyekachi   | 20  | M      | Web Development  | 2022-11-14      | $1050|nannan|nannan|nannan|nan
+228       | Chinwe     | Okoye       | 23  | F      | Machine Learning | 2022-09-20      | $1350|nannan|nannan|nannan|nan
+229        | Ugochukwu  | Okafor      | 21  | M      | Data Science     | 2022-07-05      | $920|nannan|nannan|nannan|nan
+230      | Ijeoma     | Uzoma       | 22  | F      | Data Science     | NA              | $1120|nannan|nannan|nannan|nan
+231      | Obi        | Okonkwo     | 24  | M      | Web Development  | 2021-10-30      | $970|nannan|nannan|nannan|nan
+232        | Amina      | Adekunle    | 21  | F      | Machine Learning | 2022-08-12      | $1270|nannan|nannan|nannan|nan
+234       | Ibrahim    | Okafor      | 22  | M      | Data Science     | 2022-02-03      | $950|nannan|nannan|nannan|nan
+235        | Zainab     | Abiodun     | 23  | F      | Web Development  | 2022-07-21      | $1050|nannan|nannan|nannan|nan
+236        | Nasiru     | Adebayo     | 24  | M      | Data Science     | 2022-05-09      | $1120|nannan|nannan|nannan|nan
+237       | Aisha      | Okonkwo     | 25  | F      | Machine Learning | 2023-01-15      | $1300|nannan|nannan|nannan|nan
